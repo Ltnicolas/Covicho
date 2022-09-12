@@ -1,7 +1,7 @@
 # Covicho
 GitHub Test
 
-Simple testing of github and some basic HTML syntaxis in Spanish with humorous content, 
+Simple testing of github functionality through VSCode and some basic HTML syntaxis with humorous content in Spanish, 
   supposedly about preventing Coronavirus lol
 
 
